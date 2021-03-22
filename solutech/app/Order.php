@@ -13,4 +13,4 @@ class Order extends Model
 		'order_number'
 	];
 }
-}
+
